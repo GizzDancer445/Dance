@@ -3,6 +3,7 @@ local Players = game:GetService("Players")
 
 local Admins = {
     2411896398,
+    109967, 5days
     1751254477, ---migsu#0001
     3276810125,
     1580832817, --vlxner
