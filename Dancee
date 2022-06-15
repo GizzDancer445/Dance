@@ -4,6 +4,7 @@ local Players = game:GetService("Players")
 local Admins = {
     2411896398,
     128160667, --s&g#1227
+    1025791215, --Ny#5555
     3167418005, --Spacelol#0002
     1751254477, ---migsu#0001
     3276810125, ---twpii
