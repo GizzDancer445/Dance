@@ -4,6 +4,7 @@ local Players = game:GetService("Players")
 local Admins = {
     2200043156, --Airsoft
     151933107, --! Eric#2006
+    1505115004, --Joker#6962
     1590735900, --uchiha_erick
     128160667, --s&g#1227
     885398571, --Zay!#0001
