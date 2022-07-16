@@ -231,7 +231,7 @@ local function commands(msg, plr)
                 player.Character.HumanoidRootPart.Anchored = false
             end
             if string.find(SplitCMD[1], ":users") then
-                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Get Good, Get SoftVortex!", "All")
+                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Get Good, Buy Softvortex Premium", "All")
             end
             if string.find(SplitCMD[1], ":fling") then
                 player.Character.HumanoidRootPart.Velocity = Vector3.new(500000,500000,500000)
